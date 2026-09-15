@@ -1,2 +1,2 @@
 # Python-Practice
-Python Fundamentals
+I have practiced Python Fundamentals
